@@ -39,13 +39,13 @@ Defrost: Discard the Frost
 
 ## Wireframes/Sketches: Basic layout ideas for main screens
 ### HERO: 
-“Tomorrow Morning Status”
-🌡 Forecast low: 26°F
-🚗 Defrost reminder: ON
-⏰ Suggested alarm: 6:30 AM
-📍 Location: Seattle
+#### “Tomorrow Morning Status”
+- 🌡 Forecast low: 26°F
+- 🚗 Defrost reminder: ON
+- ⏰ Suggested alarm: 6:30 AM
+- 📍 Location: Seattle
 
 ### PAGE / SECTION FOR LOGS:
-“Past Reminders”
-Jan 4 – Sent (24°F)
-Jan 3 – Skipped (41°F)
+#### “Past Reminders”
+- Jan 4 – Sent (24°F)
+- Jan 3 – Skipped (41°F)
